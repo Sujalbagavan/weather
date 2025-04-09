@@ -17,9 +17,9 @@ A Flutter weather app showing current conditions, forecasts, and wind maps.
    git clone (https://github.com/Sujalbagavan/weather.git)
 
 
-   3 Add your api key
+3. Add your api key
    static const String apiKey = 'YOUR_KEY_HERE';
 
-  4 run cmd : flutter pub get
+4. run cmd : flutter pub get
 
-  5 run the app: flutter run
+5. run the app: flutter run
