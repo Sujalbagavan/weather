@@ -8,8 +8,7 @@ A Flutter weather app showing current conditions, forecasts, and wind maps.
 - Hourly predictions
 - Air quality index
 - Wind direction map
-- Search history![Screenshot 2025-04-09 222957](https://github.com/user-attachments/assets/e26e105b-8e43-4a93-a4fc-adf6edad60cd)
-![Screenshot 2025-04-09 222946](https://github.com/user-attachments/assets/49613f1d-bb5a-42e9-8354-8620f5354a3b)
+- Search history!
 
 
 https://github.com/user-attachments/assets/7ffb50ae-e04b-4f9e-b73e-3e1f901f91ec
